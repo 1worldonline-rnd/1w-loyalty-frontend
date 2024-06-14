@@ -1,0 +1,727 @@
+{
+    "login-button-google-title": "Log in with Google",
+    "google-icon-alternative-text": "Google logotype",
+    "login-button-twitter-title": "Log in with Twitter",
+    "twitter-icon-alternative-text": "Twitter logotype",
+    "avatar-alternative-text": "Avatar",
+    "back-to-portal": "Back to portal",
+
+    "day": "Day",
+    "days": "Days",
+    "week": "Week",
+
+    "uk": "Ukrainian",
+    "en": "English",
+    "fr": "French",
+    "de": "German",
+    "es": "Spanish",
+    "pt": "Portuguese",
+    "pl": "Polish",
+    "ru": "Russian",
+
+    "&": "&",
+
+    "no-options-message": "No options",
+
+    "message-to-remind-you-to-confirm-email": "Go to your account settings to verify your email",
+
+    "sign-in-page": {
+        "tab-title": "Sign In",
+        "link-to-sign-up": "Sign Up",
+        "title": "Sign In to Loyalty Program",
+        "link-to-forgot-password": "Forgot password?"
+    },
+
+    "login-form": {
+        "email-input-placeholder": "Enter your email address",
+        "password-input-placeholder": "Enter your password",
+        "login-submit-button": "Continue"
+    },
+
+    "spend": {
+        "spend-title": "Marketplace",
+        "not-available-yet": "Not available yet"
+    },
+
+    "redemption": {
+        "redemption-title": "Marketplace",
+        "redemption-available-tab": "Available",
+        "redemption-redeemed-tab": "Redeemed",
+        "redeem-button": "Redeem",
+        "finish-redemption-button": "Finish redemption",
+        "load-more-button": "Load more",
+        "will-be-updated-soon": "Redemptions will be updated soon",
+        "accept-terms": "To finish redemption accept terms",
+        "terms-checkbox": "I accept all terms and conditions without any reservations",
+        "privacy-checkbox": "I agree with the company's privacy policy and understand the implications of my agreement",
+        "instruction-after-purchase": "To receive your purchase, follow a few simple steps:",
+        "your-voucher-code": "Your voucher code:",
+        "go-to-redemption-page": "Go to marketplace to use it:",
+        "show-product-details": "Show details",
+        "coming-soon": "Coming soon",
+        "points": "Points:",
+        "supply": "Supply",
+        "unlimited": "Unlimited",
+        "details": "Details",
+        "select-products": "Select products to add to the catalog",
+        "complete-locker-ticket": "Fulfill the conditions to participate in the lottery.",
+        "complete-locker-product": "Fulfill the conditions to purchase the product."
+    },
+
+    "sign-up-page": {
+        "tab-title": "Sign Up",
+        "link-to-sign-in": "Sign In",
+        "link-to-privacy-policy": "Privacy policy",
+        "link-to-terms": "Terms",
+        "initial-title": "Loyalty Program",
+        "title-after-successful-registration": "Welcome to the Loyalty program",
+        "initial-description": "The loyalty program is provided by 1World Online",
+        "description-after-successful-registration": "You have successfully registered ✅.<br />Verify your email address to have access to payments features",
+        "i-agree-with": "I agree with",
+        "link-to-loyalty": "Go to loyalty",
+        "email-input-placeholder": "Enter your email address",
+        "registration-button-submit": "Registration",
+        "password-input-placeholder": "Password*",
+        "repeat-password-input-placeholder": "Repeat password*",
+        "finish-registration-button-submit": "Finish registration",
+        "step-back-button": "Step back",
+
+        "fast-registration": {
+            "title": "Register and earn loyalty points that can be redeemed into tokens and goods!",
+            "description": "Leave your email for creating your personal partition in loyalty program",
+            "fast-registration-button-submit": "Join now",
+            "message-if-user-fast-registered": "You have successfully registered"
+        }
+    },
+
+    "forgot-password-page": {
+        "tab-title": "Forgot password",
+        "title": "Forgot password",
+        "link-to-sign-in": "Back to Sign in",
+        "email-input-placeholder": "Enter your email address",
+        "forgot-password-submit-button": "Send reset instructions",
+        "message-if-email-send": "Follow the instructions sent to your email"
+    },
+
+    "forbidden-page": {
+        "tab-title": "Forbidden",
+        "title": "Forbidden",
+        "description": "We are sorry, but you do not <br>have access to this page."
+    },
+
+    "password-recovery-page": {
+        "tab-title": "Password recovery",
+        "title": "Set new password",
+        "password-input-placeholder": "Password*",
+        "repeat-password-input-placeholder": "Repeat password*",
+        "password-recovery-button-submit": "Save password"
+    },
+
+    "not-found-page": {
+        "tab-title": "Ooops, page not found",
+        "description": "Ooops, page not found.",
+        "link-to-home": "Go to home page"
+    },
+
+    "account-settings-page": {
+        "page-title": "Account settings",
+
+        "email-management": {
+            "title": "Email",
+            "email-label": "Your email address",
+            "message-if-email-address-not-filled": "Email is not filled",
+            "initial-title": "Your email address not verified",
+            "title-after-successful-email-confirm": "Your email address has been verified",
+            "confirm-email-submit-button": "Send activation link",
+            "message-if-resent-successfully": "Check your email for confirmation.",
+            "description": "Confirm your email address access the billing function"
+        },
+
+        "change-account-info": {
+            "first-input-placeholder": "First name*",
+            "last-input-placeholder": "Last name*",
+            "submit-button": "Save",
+            "cancel-button": "Cancel"
+        },
+
+        "wallet": {
+            "sign-up": "Sign up",
+            "sign-up-tittle": "Earn points and exchange them for coupons and other loyalty benefits",
+            "not-available-yet": "Not available yet",
+            "wallet": "Wallet",
+            "swap": "Swap",
+            "tokens": "Tokens",
+            "points": "Points",
+            "min": "Min",
+            "max": "Max",
+            "how-much": "How much?",
+            "add-wallet-address": "Add wallet address",
+            "free-transaction-fee": "Free transaction fee",
+            "send-to-wallet": "Send to wallet",
+            "cancel": "Cancel",
+            "withdraw-tokens": "Withdraw tokens"
+        },
+
+        "change-password": {
+            "title": "Password",
+            "old-password-input-label": "Old password",
+            "new-password-input-label": "New password",
+            "save-password-submit-button": "Save password",
+            "message-if-password-successfully-changed": "Password changed successfully"
+        },
+        "delete-account": {
+            "delete-account": "Delete account",
+            "enter-password": "Enter password for approve deleting",
+            "after-deleting": "After deleting, you'll lose access to account and all your personal data will be deleted after 30 days.",
+            "approve": "Approve"
+        },
+
+        "obtain-a-copy-of-data": {
+            "obtain-a-copy-of-data": "Obtain a copy of data",
+            "request-archive": "Request archive",
+            "personal-data": "Personal data that will be included in the uploaded file:",
+            "user-account": "User account settings information, such as name, email address, phone number, language and notification preferences",
+            "user-activity": "User activity data, such as search queries, votes, clicks, and page views",
+            "user-generated": "User-generated content, such as polls, comments, etc.",
+            "user-purchase": "User purchase history, different balances history and transaction data if exists.",
+            "enter-password": "Enter password for approve"
+        }
+    },
+
+    "earning-history-page": {
+        "tab-title": "Earning history",
+        "title": "Earning history",
+        "points": "Points",
+        "message-id-earning-history-empty": "Earning history is empty",
+        "previous-button": "Previous",
+        "next-button": "Next"
+    },
+    "earn-page": {
+        "tab-title": "Dashboard",
+        "social-activity-title": "Get started",
+        "feed-content-list-title": "Recurring tasks",
+        "message-if-feed-content-list-empty": "No tasks",
+        "message-if-earn-content-empty": "There is no available content. Ask the website support",
+        "social-activity-completed-button": "Completed",
+        "social-activity": {
+            "title": "Social media",
+            "message-if-subscribed": "Subscribed",
+            "message-to-subscribe": "Subscribe!",
+            "message-if-social-activity-not-exist": "No social activity"
+        },
+        "feed-content-list": {
+            "message-to-watch-feed-content": "Read Article",
+            "share-facebook": "Share Facebook",
+            "share-linkedIn": "Share LinkedIn",
+            "share-twitter": "Share Twitter",
+            "read-more": "Read more",
+            "learn-more": "Learn more",
+            "vote-poll-for-article": "Vote Poll for article",
+            "vote-on-poll": "Poll Vote",
+            "survey": "Survey",
+            "survey-completion": "Survey",
+            "quiz": "Quiz",
+            "quiz-downgrade": "Quiz",
+            "quiz-completion": "Quiz",
+            "share": "Share",
+            "retry": "Retry"
+        },
+        "sequence-feed": {
+            "step": "Step",
+            "passed": "Passed",
+            "continue-challenge": "Continue challenge",
+            "start-challenge": "Start challenge",
+            "earned-points": "Earned points",
+            "locked": "Locked",
+            "unlocks": "Unlocks"
+        }
+    },
+    "burger-menu": {
+        "log-out-button": "Log out",
+        "link-to-earn": "Dashboard",
+        "link-to-home": "Home",
+        "link-to-spend": "Marketplace",
+        "link-to-redemption": "Marketplace",
+        "link-to-activity-history": "Activity history",
+        "link-to-account-settings": "Account settings",
+        "link-to-product-tour": "Product tour",
+        "link-to-admin-panel": "Admin panel",
+        "link-to-portal": "Go to Portal"
+    },
+
+    "widget-managers-tabs": {
+        "earn": "Dashboard",
+        "spend": "Marketplace",
+        "integration": "Integration",
+        "widget": "Widget",
+        "settings": "Settings",
+        "link-to-loyalty-widgets": "Loyalty pages",
+        "info-icon-caption": "INFO TIPS",
+        "spend-info-title": "What is Wallet",
+        "spend-info-text": "",
+        "earn-info-title": "What is News feed tool",
+        "earn-info-text": "",
+        "widget-info-title": "What is Widget settings",
+        "widget-info-text": "",
+        "integration-info-title": "How to install embed code",
+        "integration-info-text": "",
+        "settings-info-title": "",
+        "settings-info-text": "",
+        "manage": "Manage",
+        "hide": "Hide",
+        "loyalty-widgets": "Loyalty widgets",
+        "created": "Created:",
+        "name": "Name",
+        "language": "Language",
+        "statistic": "Statistic"
+    },
+
+    "menu-button": {
+        "close": "Close menu",
+        "open": "Open menu",
+        "cancel": "Сancel",
+        "delete": "Delete"
+    },
+
+    "events": {
+        "create-event-submit-button": "Save",
+        "update-event-submit-button": "Save",
+        "action-type": "Action type",
+        "click": "Click",
+        "event-name": "Incentive name",
+        "reward-amount": "Reward amount",
+        "limits-daily-per-user": "Limits daily per a user",
+        "limits-monthly-per-user": "Limits monthly per a user",
+        "cancel-editing-event-button": "Cancel",
+        "delete-event-button": "Delete",
+        "edit-event-button": "Edit",
+        "message-if-pages-not-exist": "List of loyalty pages is empty. Create new page",
+        "message-if-events-not-exist": "List of events is empty",
+        "message-if-event-successfully-deleted": "Incentive successfully deleted!",
+        "message-if-event-successfully-updated": "Incentive successfully updated!",
+        "message-if-event-successfully-created": "Incentive successfully created!",
+        "message-if-event-can-not-delete": "You can't delete this incentive, they used in other place, delete them manually?",
+        "question-if-want-to-delete-event": "Are you sure you want to delete?",
+        "validation-message-if-event-already-exists": "Incentive with the same name already exists"
+    },
+
+    "feed": {
+        "open-creating-feed-button": "Add Feed",
+        "create-feed-form-title": "Enter the fields",
+        "message-if-feed-successfully-updated": "Feed successfully updated",
+        "message-if-feed-successfully-created": "Feed successfully created",
+        "feed-name": "Feed name",
+        "period": "Period",
+        "incentives": "Incentives",
+        "locale": "Language",
+        "pollCount": "Number of polls",
+        "url": "Url link",
+        "create-feed-button": "Save",
+        "close-creating-feed-button": "Close",
+        "message-if-feed-list-is-empty": "List of feeds is empty",
+        "cancel-editing-feed-button": "Cancel",
+        "delete-feed-button": "Delete",
+        "edit-feed-button": "Edit",
+        "question-if-want-to-delete-feed": "Are you sure you want to delete?"
+    },
+
+    "loyalty-widgets": {
+        "loyalty-program-template-page-title": "Loyalty program template",
+        "message-if-widgets-not-exist": "List of widgets is empty",
+        "link-to-statictic-widget": "Statistic",
+        "link-to-edit-widget": "Edit",
+        "delete-widget-button": "Delete",
+        "field-name-label": "Name",
+        "field-locale-label": "Language",
+        "question-if-want-to-delete-widget": "Are you sure you want to delete?",
+        "create-widget-button": "Create",
+        "widget-creation-form-title": "Creating new widget",
+        "widget-creation-form-submit-button": "Create",
+        "message-if-widget-successfully-deleted": "Widget successfully deleted!",
+        "message-if-widget-successfully-updated": "Widget successfully updated!",
+        "message-if-widget-successfully-created": "Widget successfully created!",
+        "statistic": {
+            "general-tab-title": "General",
+            "detailed-tab-title": "Detailed",
+            "link-to-widgets-list": "Back",
+            "apply-filters-button": "Apply",
+
+            "total-participants-field-label": "Total participants",
+            "total-activations-field-label": "Total activations",
+            "unique-active-users-period-field-label": "Unique active users/period",
+            "total-events-field-label": "Total events",
+            "user-retention-field-label": "User retention",
+            "total-account-sessions-field-label": "Total account sessions",
+            "avg-session-reading-time-field-label": "Avg. session reading time",
+            "avg-reading-time-per-user-field-label": "Avg. reading time per user",
+            "avg-reading-time-per-article-field-label": "Avg. reading time per article",
+            "unique-participants-perio-field-label": "Unique participants/period",
+            "events-period-field-label": "Events/period",
+            "message-if-retention-value-negative": "No data",
+            "statistics-articles-fieldset-legend": "Statistics for all articles",
+            "article-statistics-fieldset-legend": "Article statistics",
+            "article-url-input-label": "Find article",
+            "article-title-field-label": "Title",
+            "article-total-reads-field-label": "Total reads",
+            "article-total-reading-time-field-label": "Total reading time",
+            "article-avg-reading-time-field-label": "Avg. reading time",
+            "article-url-input-placeholder": "Article link"
+        },
+        "editing": {
+            "collection": "Collection",
+            "sequence": "Sequence",
+            "feed": "Feed",
+            "news-content": "News content",
+            "select-content": "Select content",
+            "create-new-feed": "Create new feed",
+            "create-new-collection": "Create new collection",
+            "content-block-name": "Content block name",
+            "content-visibility": "Content visibility",
+            "delete-content": "Delete content",
+            "add-content": "Add one more content",
+            "delete-content-question": "Delete content from list?",
+            "cancel": "Cancel",
+            "delete": "Delete",
+
+            "spend-manager-wallet": "Wallet",
+
+            "social-media-checkbox-label": "Social media",
+            "social-link-field-label": "Social link",
+            "social-incentive-field-label": "Incentive",
+            "link-for-social-field-label": "Type the link",
+            "link-for-social-field-placeholer": "Page url...",
+            "event-select-field-label": "Choose incentive",
+            "event-select-field-placeholer": "Select",
+            "feed-checkbox-label": "Feed",
+            "select-feed-label": "Select feed",
+            "save-spend-button-submit": "Save spend settings",
+            "save-earn-button-submit": "Save earn settings",
+            "save-tracker-settings-button-submit": "Save widget settings",
+            "save-settings-button-submit": "Save settings",
+            "delete-loyalty-page-title": "Delete loyalty page",
+            "delete-loyalty-page-warning": "Are you sure you want to delete the loyalty page ",
+            "delete-loyalty-page-button": "Delete loyalty",
+            "feed-block-name": "Feed block name",
+            "delete-feed": "Delete Feed",
+            "feed-visibility": "Feed visibility",
+            "add-one-more-feed": "Add one more feed",
+            "tool-description": "Tool description perspiciatis unde omnis iste natus",
+
+            "general-settings-fieldset-legend": "Apperance",
+            "general-settings-fieldset-subtitle": "Global styling for loyalty page and tracker widget",
+            "tracker-widget-fieldset-legend": "Tracker widget",
+            "font-field-label": "Font family",
+            "widgets-theme-field-label": "Color theme",
+            "light-theme-checkbox-label": "Light",
+            "dark-theme-checkbox-label": "Dark",
+            "light-theme-bg-input-label": "Bg color for Light theme",
+            "dark-theme-bg-input-label": "Bg color for Dark theme",
+            "redirect-link-field-label": "Retention link",
+            "horizontal-offset-field-label": "Horizontal offset",
+            "vertical-offset-field-label": "Vertical offset",
+            "widget-branding-fields-legend": "Widget branding",
+            "points-name-field-label": "Point's name",
+            "header-text-field-label": "Header text",
+            "description-text-field-label": "Description",
+            "widget-color-field-label": "Accent color",
+            "widget-preview-title": "Preview",
+            "image-logo-field-label": "Floating button icon",
+            "page-name-field-label": "Page name",
+            "point-name-field-label": "Point name",
+            "locale-field-label": "Language",
+            "reset-to-default-settings-button": "Reset to default",
+
+            "loyalty-page-embed-code-field-label": "Loyalty page embed code",
+            "instructions-for-dynamic-theme-switching": "Want to dynamically switch the widget's theme based on your website's theme?",
+            "loyalty-page-embed-code-field-subtitle": "",
+            "tracker-widget-embed-code-field-label": "Tracker widget embed code",
+            "tracker-widget-embed-code-field-subtitle": "",
+            "copy-embed-code-button": "Copy",
+            "copied-embed-code-button": "Copied",
+
+            "news-feed": "News feed",
+            "create-new": "Create new",
+            "create-page": "Create page",
+            "select": "select",
+
+            "letter-points-icon": "Point icon",
+            "letter-point-letter": "Letters",
+            "letter-point-icon": "Icon Shape",
+            "letter-font-family": "Letter font family",
+            "letter-font-size": "Font size",
+            "letter-offset": "Letter offset",
+            "referral-url-field-label": "Registration link",
+
+            "user-menu-settings-is-show-home": "Show home link",
+            "user-menu-settings-is-show-activity-history": "Show activity history link",
+            "user-menu-settings-is-show-product-tour": "Show product tour link",
+            "user-menu-settings-is-show-account-settings": "Show account settings link",
+            "user-menu-settings-is-show-logout": "Show logout link"
+        }
+    },
+
+    "validationMessages": {
+        "required": "Required field",
+        "incorrect-email": "Incorrect email",
+        "password-general-requirements": "Password must contain only latin characters, numbers and non-letter characters",
+        "password-must-contain-non-letter-character": "Password must contain at least one non-letter character",
+        "password-must-contain-letter": "Password must contain at least one letter",
+        "password-min-length": "Password must be at least 6 characters",
+        "password-mismatch": "Password mismatch",
+        "crypto-wallet-min-length": "Crypto wallet has to be at least 40 characters long",
+        "incorrect-crypto-wallet": "Incorrect wallet",
+        "only-digits": "Field must contain only numbers",
+        "only-integers": "Field must contain only integers",
+        "if-monthly-bigger-daily": "Limits daily should be less than limits daily or equal",
+        "incorrect-url": "Incorrect URL",
+        "incorrect-hex": "Enter HEX color format",
+        "field-max-length": "The field must not contain more than /{?}/ characters",
+        "max-number": "The value must not be greater than /{?}/",
+        "min-number": "The value must not be less than /{?}/",
+        "max-offset": "Maximum offset is /{?}/px",
+        "positive": "The value must be a positive number"
+    },
+
+    "userMenu": {
+        "client-dashboard": "Client dashboard",
+        "profile-settings": "Profile settings",
+        "sign-out": "Sign out"
+    },
+
+    "sideNavigation": {
+        "loyalty-program": "Loyalty program",
+        "pages": "Pages",
+        "statistic": "Statistic",
+        "incentives": "Incentives",
+        "feeds": "Feeds",
+        "catalogs": "Catalogs",
+        "rewards": "Custom reward",
+        "products": "Products",
+        "preferences": "Preferences",
+        "tools": "Tools",
+        "sequences": "Sequences",
+        "nft-collections": "NFT Collections",
+        "nft-widgets": "NFT Widgets",
+        "collections": "Collections"
+    },
+
+    "modals": {
+        "create-new": "Create new",
+        "create-feed": "Create feed",
+        "create-incentive": "Create incentive",
+        "apply": "Apply",
+        "edit": "Edit",
+        "loyalty-program": "Loyalty program",
+        "pages": "Pages",
+        "feed": "feed",
+        "incentive": "incentive",
+        "loyalty page": "loyalty page",
+        "catalog": "catalog",
+        "rewards": "custom reward",
+        "product": "product",
+        "value-in-points": "Value in points",
+        "limit-value": "Limit value...",
+
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "delete-incentive": "Delete incentive",
+        "delete-custom-reward": "Delete custom reward",
+        "delete-feed": "Delete feed",
+        "by-delete-incentive": "Do you really want to delete incentive ?",
+        "by-delete-item": "Do you really want to delete an item ?",
+        "by-delete-feed": "Do you really want to delete feed ?",
+        "finally-delete-feed": "Finally delete feed",
+        "before-delete-feed": "Before deleting a feed, you need to unlink it from all pages where it is used, after the delete button will become clickable.",
+        "before-change-feed-status": "Before changing a feed status, you need to unlink it from all pages where it is used, after the apply button will become clickable.",
+        "feed-deleted": "Feed successfully deleted!",
+        "feed-not-any-page": "The feed is not linked to any page",
+        "feed-deleting": "Feed deleting in process ...",
+        "linked-page": "Linked page",
+        "select": "Select...",
+        "widget-sequence": "sequence",
+        "sequence": "sequence",
+        "sequence-item": "sequence item",
+        "close": "Close",
+        "next": "Next",
+        "skip": "Skip",
+        "required": "Required",
+        "nft-collection": "NFT collection",
+        "nft-widget": "NFT widget",
+        "nft": "NFT",
+        "collection": "collection",
+        "topic-in-collection": "topic"
+    },
+
+    "incentives": {
+        "incentives": "Incentives",
+        "name": "NAME",
+        "actionType": "ACTION TYPE",
+        "reward": "REWARD",
+        "daily-limit": "DAILY LIMIT",
+        "monthly-limit": "MONTHLY LIMIT"
+    },
+
+    "feeds": {
+        "feeds": "Feeds",
+        "name": "NAME",
+        "language": "LANGUAGE",
+        "incentive": "INCENTIVE",
+        "url": "URL",
+        "polls-creation": "POLLS CREATION"
+    },
+
+    "creationButton": {
+        "page": "Page",
+        "incentive": "Incentive",
+        "feed": "Feed",
+        "create": "Create",
+        "collection": "Collection"
+    },
+
+    "preferences": {
+        "partner-loyalty-preferences": "Partner Loyalty Preferences",
+        "default-events-rewards": "Default events rewards",
+        "all-rewards-are-set": "All rewards are set in Points, and limits per one Loyalty Program",
+        "save-preferences": "Save preferences",
+
+        "poller-widget": "Poller widget",
+        "quiz-widget": "Quiz widget",
+        "survey-widget": "Survey widget",
+        "profile-events": "Profile events",
+        "earn-page-events": "Earn page events",
+        "other": "Other",
+        "event": "EVENT",
+        "limit-count": "LIMIT, COUNT",
+        "reward-points": "REWARD, POINTS",
+        "daily-login": "Daily login",
+
+        "once": "Once",
+        "day": "Per day",
+
+        "event-1": "event-1",
+        "event-2": "event-2",
+        "event-3": "event-3",
+        "event-4": "event-4",
+        "event-5": "event-5",
+        "event-6": "event-6",
+        "event-7": "event-7",
+        "event-8": "event-8",
+        "event-9": "event-9",
+        "required-event": "Required event"
+    },
+
+    "tools": {
+        "partner-loyalty-tools": "Partner Loyalty Tools",
+        "quizzes-upload": "Quizzes upload",
+        "quizzes-upload-description": "Upload a file in .xls format to create quizzes. The maximum allowed file size is 250 KB",
+        "quizzes-upload-button-text": "Upload",
+        "quizzes-upload-result-name-column": "Name",
+        "quizzes-upload-result-status-column": "Status",
+        "quizzes-upload-result-preview-column": "Preview link",
+        "quizzes-upload-result-configuration-column": "Configuration link",
+        "quizzes-upload-result-link": "Link",
+        "crypto": "Crypto"
+    },
+
+    "nft": {
+        "create-nft": "Create NFT",
+        "switch-network": "Switch network",
+        "current-wallet-address": "Current wallet address:",
+        "grant-access": "Grant access",
+        "remove-access": "Remove access",
+        "access-granted": "Access to NFT collection successfully granted",
+        "access-removed": "Access to NFT collection successfully removed",
+        "access-not-changed": "Access to NFT collection not changed",
+        "connect-owner-wallet-address": "Connect owner wallet address:",
+        "connect-wallet": "Connect wallet",
+        "install-wallet": "Please install wallet extension",
+        "nft-collections": "NFT Collections",
+        "name": "Name",
+        "language": "Language",
+        "blockchain": "Blockchain",
+        "smart-contract-address": "Smart contract address",
+        "manage": "Manage",
+        "embed-code": "Embed code",
+        "copy": "Copy",
+        "edit": "Edit",
+        "description": "Description",
+        "nft-collection": "NFT collection",
+        "cancel": "Cancel",
+        "update": "Update",
+        "create": "Create",
+        "wallet": "Wallet",
+        "wallet-not-connected": "Wallet not connected!",
+        "symbol": "Symbol",
+        "metadata-url": "Metadata URL",
+        "image-url": "Image URL",
+        "pre-minted": "Pre minted",
+        "token-id": "Token id",
+        "status": "Status",
+        "nft-list-empty": "NFTs list is empty",
+        "nft-collections-list-empty": "NFT Collections list is empty",
+        "nft-widgets-list-empty": "NFT Widget list is empty"
+    },
+
+    "sequences": {
+        "sequences": "Sequences",
+        "widget-sequences": "Widget sequences trans",
+
+        "manage": "Manage",
+
+        "items": "Items",
+        "settings": "Settings",
+        "create-item": "Create item",
+        "sequence-item": "sequence item",
+
+        "draft": "Draft",
+        "active": "Active",
+
+        "edit": "Edit",
+        "remove": "Remove",
+        "cancel": "Cancel",
+        "create": "Create",
+
+        "name": "Name",
+        "article-url": "Article URL",
+        "widget": "Widget",
+        "read-reward-points": "Read reward, points",
+        "read-reward": "Read reward",
+        "status": "status",
+
+        "language": "Language",
+        "next-step": "Next step",
+
+        "step-name": "Step name",
+        "custom-rewarded-widget": "Select custom rewarded IMU",
+        "imu": "IMU",
+        "select-imu": "Select IMU type",
+        "reading-time": "Reading time (sec)",
+
+        "publishing-name": "Publishing name",
+        "save-settings": "Save settings",
+        "delete-sequence": "Delete sequence",
+
+        "message-if-widget-successfully-deleted": "Sequence successfully deleted!"
+    },
+    "daily-points": {
+        "title": "Daily Points",
+        "day": "Day",
+        "unlock-button-text": "Claim now"
+    },
+    "demo-badge": {
+        "description": "The loyalty program is in beta mode",
+        "tooltip-content": "The Loyalty Program is in early access and some functions may not work correctly"
+    },
+    "ticket-product": {
+        "sales-end": "Sales end",
+        "giveaway": "Giveaway",
+        "finished": "Finished",
+        "selecting-winners": "Selecting winners",
+        "day": "d",
+        "complete-sequence": "Complete the sequence to participate",
+        "win-chance": "Win chance",
+        "per-ticket": "per 1 ticket",
+        "sold-tickets": "Sold tickets",
+        "my-tickets": "My tickets"
+    }
+}

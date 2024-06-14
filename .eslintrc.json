@@ -1,0 +1,85 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "plugin:react/recommended",
+        "airbnb/base",
+        "next/core-web-vitals",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        },
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "ignorePatterns": [
+        "public/widget-constructor.js",
+        "public/points-balance-widget.js",
+        "points-balance-widget/webpack.config.js",
+        "widget-constructor/webpack.config.js"
+    ],
+    "plugins": ["react", "@typescript-eslint", "boundaries"],
+    "rules": {
+        "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
+        "arrow-body-style": "off",
+        "semi": ["error", "always"],
+        "quotes": ["error", "single"],
+        "indent": ["error", 4],
+        "react/jsx-indent": ["error", 4],
+        "linebreak-style": "off",
+        "import/no-extraneous-dependencies": "off",
+        "object-curly-newline": "off",
+        "import/prefer-default-export": "off",
+        "max-len": ["error", { "code": 110 }],
+        "no-param-reassign": ["error", { "props": false }],
+        "import/extensions": "off",
+        "class-methods-use-this": "off",
+        "no-mixed-operators": [
+            "error",
+            {
+                "groups": [
+                    ["+", "-", "*", "/", "%", "**"],
+                    ["&", "|", "^", "~", "<<", ">>", ">>>"],
+                    ["==", "!=", "===", "!==", ">", ">=", "<", "<="],
+                    ["&&", "||"],
+                    ["in", "instanceof"]
+                ],
+                "allowSamePrecedence": true
+            }
+        ],
+        "comma-dangle": [
+            "error",
+            {
+                "objects": "always-multiline",
+                "arrays": "always-multiline",
+                "exports": "never",
+                "functions": "never",
+                "imports": "ignore"
+            }
+        ],
+        "@typescript-eslint/ban-ts-comment": "warn",
+        "@typescript-eslint/ban-types": [
+            "error",
+            {
+              "extendDefaults": true,
+              "types": {
+                "{}": false
+              }
+            }
+          ],
+        "camelcase": "off",
+        "no-shadow": "off",
+        "quote-props": ["error", "as-needed"],
+        "operator-linebreak": "off",
+        "react/display-name": "off"
+    }
+}

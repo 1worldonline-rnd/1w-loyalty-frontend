@@ -1,0 +1,57 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.pnp.cjs
+.pnp.loader.mjs
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json*
+
+# local env files
+# .env.local
+# .env.development.local
+# .env.test.local
+# .env.production.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+
+# yarn
+.yarnrc
+/.yarn/
+
+# intellij
+.idea
+.vscode
+
+# public
+/public/widget-constructor.html
+/public/widget-constructor.js
+/public/widget-constructor-of-andrei.html
+/public/widget-constructor-of-artem.html
+/public/points-balance-widget.html
+/public/points-balance-widget-of-artem.html
+/public/points-balance-widget.js

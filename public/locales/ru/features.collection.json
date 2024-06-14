@@ -1,0 +1,19 @@
+{
+    "collections": "Коллекции",
+    "collection-type-sequence": "Последовательность",
+    "collection-type-topic": "Тема",
+
+    "creation-form": {
+        "collection-name-field-label": "Название",
+        "collection-type-field-label": "Тип",
+        "collection-locale-field-label": "Язык",
+        "button-create-collection-label": "Создать коллекцию",
+        "message-if-collection-successfully-created": "Коллекция успешно создана!"
+    },
+
+    "collection-table": {
+        "collection-name-th-label": "Название",
+        "button-to-collection-page-label": "Управление",
+        "no-collections-message": "Список коллекций пуст"
+    }
+}

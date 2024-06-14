@@ -1,0 +1,1 @@
+export { CatalogTabSettings } from './ui';

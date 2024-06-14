@@ -1,0 +1,1 @@
+export { CollectionContent } from './ui';

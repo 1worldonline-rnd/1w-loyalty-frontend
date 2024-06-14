@@ -1,0 +1,30 @@
+.admin-panel {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+
+    &__main {
+        flex: 1;
+        display: grid;
+        grid-template-columns: 270px auto;
+        padding-inline: 36px;
+    }
+
+    .admin-page {
+        padding: 24px 0 0 26px;
+    }
+
+    .widget {
+        padding: 0;
+    }
+
+    button,
+    a {
+        outline: none;
+
+        &:focus-visible 
+        {
+            box-shadow: 0px 0px 0px 3px rgba(var(--accent-5-color), 0.25);
+        }
+    }
+}

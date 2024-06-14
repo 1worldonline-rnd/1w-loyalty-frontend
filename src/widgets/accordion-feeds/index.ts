@@ -1,0 +1,1 @@
+export { AccordionFeeds } from './ui';

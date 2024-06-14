@@ -1,0 +1,75 @@
+@import 'rsuite/styles/index.less';
+
+.toaster-message {
+    box-shadow: 0px 0px 34px rgba(0, 0, 0, 0.13);
+    border-radius: 4px;
+    min-width: 200px;
+    max-width: min(340px, calc(100vh - 40px));
+
+    .rs-notification-content {
+        padding: 15px 40px 15px 15px;
+        position: relative;
+    }
+
+    .rs-notification-title {
+        position: absolute;
+        color: transparent;
+        pointer-events: none;
+    }
+
+    .rs-notification-description {
+        margin: 0;
+        text-align: left;
+    }
+
+    .rs-btn-close {
+        width: 30px;
+        height: 30px;
+        padding: 0;
+        right: 5px;
+        top: 5px;
+        transition: opacity 200ms linear;
+        background-image: url('../../../public/images/close-icon.svg');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: 26px 26px;
+
+        svg {
+            display: none;
+        }
+
+        &:hover {
+            opacity: 0.75;
+        }
+    }
+}
+
+body[data-theme="dark"] .toaster-message {
+    background-color: var(--grey-3-color);
+
+    .rs-notification-description {
+        color: var(--text-dark-color);
+    }
+
+    .rs-btn-close {
+        background-image: url('../../../public/images/close-icon-dark.svg');
+    }
+}
+
+.rs-panel-collapse {
+    height: 0px;
+}
+
+body[data-theme="dark"] .rs-modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+body[data-theme="light"] .rs-modal-backdrop {
+    background-color: rgba(250, 250, 250, 0.8);
+}
+
+@media screen and (max-width: 768px) {
+    .rs-modal {
+        padding-inline: 9px;
+    }
+}

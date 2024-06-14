@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/app/*": ["src/app/*"],
+            "@/features/*": ["src/features/*"],
+            "@/pages/*": ["src/pages/*"],
+            "@/processes/*": ["src/processes/*"],
+            "@/shared/*": ["src/shared/*"],
+            "@/widgets/*": ["src/widgets/*"],
+            "@/entities/*": ["src/entities/*"],
+            "@/points-balance-widget/*": ["points-balance-widget/*"]
+        },
+        "target": "es5",
+        "lib": ["dom", "dom.iterable", "esnext"],
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "esModuleInterop": true,
+        "module": "esnext",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        "jsx": "preserve",
+        "incremental": true,
+        "noEmit": true
+    },
+    "include": ["next-env.d.ts", "global.d.ts", "**/*.ts", "**/*.tsx"],
+    "exclude": ["node_modules", "points-balance-widget", "public"]
+}

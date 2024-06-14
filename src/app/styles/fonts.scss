@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../../../public/fonts/ProximaNova/../../../public/fonts/ProximaNova/ProximaNova-Regular.eot');
+    src: local('Proxima Nova Regular'), local('ProximaNova-Regular'),
+        url('../../../public/fonts/ProximaNova/../../../public/fonts/ProximaNova/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../../public/fonts/ProximaNova/../../../public/fonts/ProximaNova/ProximaNova-Regular.woff2') format('woff2'),
+        url('../../../public/fonts/ProximaNova/../../../public/fonts/ProximaNova/ProximaNova-Regular.woff') format('woff'),
+        url('../../../public/fonts/ProximaNova/../../../public/fonts/ProximaNova/ProximaNova-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../../../public/fonts/ProximaNova/ProximaNova-Semibold.eot');
+    src: local('Proxima Nova Semibold'), local('ProximaNova-Semibold'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Semibold.woff2') format('woff2'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Semibold.woff') format('woff'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('../../../public/fonts/ProximaNova/ProximaNova-Bold.eot');
+    src: local('Proxima Nova Bold'), local('ProximaNova-Bold'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Bold.woff2') format('woff2'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Bold.woff') format('woff'),
+        url('../../../public/fonts/ProximaNova/ProximaNova-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

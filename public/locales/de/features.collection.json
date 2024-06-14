@@ -1,0 +1,19 @@
+{
+    "collections": "Sammlungen",
+    "collection-type-sequence": "Sequenz",
+    "collection-type-topic": "Thema",
+
+    "creation-form": {
+        "collection-name-field-label": "Name",
+        "collection-type-field-label": "Typ",
+        "collection-locale-field-label": "Sprache",
+        "button-create-collection-label": "Sammlung erstellen",
+        "message-if-collection-successfully-created": "Sammlung erfolgreich erstellt!"
+    },
+
+    "collection-table": {
+        "collection-name-th-label": "Name",
+        "button-to-collection-page-label": "Verwalten",
+        "no-collections-message": "Liste der Sammlungen ist leer"
+    }
+}

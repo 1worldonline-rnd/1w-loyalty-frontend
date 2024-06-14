@@ -1,0 +1,1 @@
+export { CollectionTopics } from './ui';

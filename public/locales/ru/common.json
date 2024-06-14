@@ -1,0 +1,721 @@
+{
+    "login-button-google-title": "Войти через Google",
+    "google-icon-alternative-text": "Логотип Google",
+    "login-button-twitter-title": "Войти через Twitter",
+    "twitter-icon-alternative-text": "Логотип Twitter",
+    "avatar-alternative-text": "Аватар",
+    "back-to-portal": "Вернуться к порталу",
+
+    "day": "День",
+    "days": "Дней",
+    "week": "Неделя",
+
+    "uk": "Украинский",
+    "en": "Английский",
+    "fr": "Французкий",
+    "de": "Немецкий",
+    "es": "Испанский",
+    "pt": "Португальский",
+    "pl": "Польский",
+    "ru": "Русский",
+
+    "&": "и",
+
+    "no-options-message": "Нет вариантов",
+
+    "message-to-remind-you-to-confirm-email": "Перейдите в настройки учетной записи, чтобы подтвердить почту",
+
+    "sign-in-page": {
+        "tab-title": "Войти",
+        "link-to-sign-up": "Зарегистрироваться",
+        "title": "Войти в программу лояльности",
+        "link-to-forgot-password": "Забыли пароль?"
+    },
+
+    "login-form": {
+        "email-input-placeholder": "Введите ваш адрес электронной почты",
+        "password-input-placeholder": "Введите свой пароль",
+        "login-submit-button": "Продолжить"
+    },
+
+    "spend": {
+        "spend-title": "Тратить",
+        "not-available-yet": "Пока недоступно"
+    },
+
+    "redemption": {
+        "redemption-title": "Погашение",
+        "redemption-available-tab": "Доступно",
+        "redemption-redeemed-tab": "Погашено",
+        "redeem-button": "Погасить",
+        "finish-redemption-button": "Завершить погашение",
+        "load-more-button": "Загрузить еще",
+        "will-be-updated-soon": "Погашения будут обновлены в ближайшее время",
+        "accept-terms": "Для завершения погашения примите условия",
+        "terms-checkbox": "Я принимаю все условия и положения без каких-либо оговорок",
+        "privacy-checkbox": "Я соглашаюсь с политикой конфиденциальности компании и понимаю последствия своего согласия",
+        "instruction-after-purchase": "Чтобы получить свою покупку, выполните несколько простых шагов:",
+        "your-voucher-code": "Ваш код ваучера:",
+        "go-to-redemption-page": "Перейдите на страницу погашения, чтобы использовать его:",
+        "show-product-details": "Показать детали",
+        "coming-soon": "Скоро",
+        "points": "Баллы:",
+        "supply": "Наличие",
+        "unlimited": "Безлимит",
+        "details": "Подробности",
+        "select-products": "Выберите продукты для добавления в каталог",
+        "complete-locker-ticket": "Выполните условия для участия в лотерее.",
+        "complete-locker-product": "Выполните условия для приобретения товара."
+    },
+
+    "sign-up-page": {
+        "tab-title": "Зарегистрироваться",
+        "link-to-sign-in": "Войти",
+        "link-to-privacy-policy": "политикой конфиденциальности",
+        "link-to-terms": "условиями",
+        "initial-title": "Программа лояльности",
+        "title-after-successful-registration": "Добро пожаловать в программу лояльности",
+        "initial-description": "Программа лояльности предоставлена 1World Online.",
+        "description-after-successful-registration": "Вы успешно зарегистрировались ✅.<br />Подтвердите свой адрес электронной почты, чтобы получить доступ к платежным функциям",
+        "i-agree-with": "Я согласен с",
+        "link-to-loyalty": "Перейти к лояльности",
+        "email-input-placeholder": "Введите ваш адрес электронной почты",
+        "registration-button-submit": "Регистрация",
+        "password-input-placeholder": "Пароль*",
+        "repeat-password-input-placeholder": "Повторите пароль*",
+        "finish-registration-button-submit": "Завершить регистрацию",
+        "step-back-button": "Вернуться назад",
+
+        "fast-registration": {
+            "title": "Зарегистрируйтесь и зарабатывайте баллы лояльности, которые можно обменять на жетоны и товары!",
+            "description": "Оставьте свой адрес электронной почты для создания личного раздела в программе лояльности",
+            "fast-registration-button-submit": "Присоединиться сейчас",
+            "message-if-user-fast-registered": "Вы успешно зарегистрировались"
+        }
+    },
+
+    "forgot-password-page": {
+        "tab-title": "Забыл пароль",
+        "title": "Забыл пароль",
+        "link-to-sign-in": "Попробовать войти",
+        "email-input-placeholder": "Введите ваш адрес электронной почты",
+        "forgot-password-submit-button": "Отправить инструкции по сбросу",
+        "message-if-email-send": "Следуйте инструкциям, отправленным на вашу электронную почту"
+    },
+
+    "forbidden-page": {
+        "tab-title": "Запрещено",
+        "title": "Запрещено",
+        "description": "Сожалеем, но у вас нет <br>доступа к этой странице."
+    },
+
+    "password-recovery-page": {
+        "tab-title": "Восстановление пароля",
+        "title": "Установить новый пароль",
+        "password-input-placeholder": "Пароль*",
+        "repeat-password-input-placeholder": "Повторите пароль*",
+        "password-recovery-button-submit": "Сохранить пароль"
+    },
+
+    "not-found-page": {
+        "tab-title": "Упс, страница не найдена",
+        "description": "Упс, страница не найдена.",
+        "link-to-home": "Вернуться на домашнюю страницу"
+    },
+
+    "account-settings-page": {
+        "page-title": "Настройки учетной записи",
+
+        "email-management": {
+            "title": "E-mail",
+            "email-label": "Ваш электронный адрес",
+            "message-if-email-address-not-filled": "Электронная почта не заполнена",
+            "initial-title": "Ваш адрес электронной почты не подтвержден",
+            "title-after-successful-email-confirm": "Ваш адрес электронной почты подтвержден",
+            "confirm-email-submit-button": "Отправить ссылку активации",
+            "message-if-resent-successfully": "Проверьте свою электронную почту для подтверждения.",
+            "description": "Подтвердите свой адрес электронной почты, чтобы получить доступ к функции выставления счетов."
+        },
+
+        "change-account-info": {
+            "first-input-placeholder": "Имя*",
+            "last-input-placeholder": "Фамилия*",
+            "submit-button": "Сохранить",
+            "cancel-button": "Отмена"
+        },
+
+        "wallet": {
+            "sign-up": "Зарегистрироваться",
+            "sign-up-tittle": "Зарабатывайте очки и обменяй их для купонов и других преимуществ лояльности",
+            "not-available-yet": "Пока недоступно",
+            "wallet": "Кошелёк",
+            "max": "Макс",
+            "swap": "Обмен",
+            "tokens": "Токены",
+            "points": "Монеты",
+            "min": "Мин",
+            "how-much": "Сколько ?",
+            "add-wallet-address": "Добавить адрес кошелька",
+            "free-transaction-fee": "Бесплатная транзакция",
+            "send-to-wallet": "Отправить в кошелек",
+            "cancel": "Отменить",
+            "withdraw-tokens": "Забрать токены"
+        },
+
+        "change-password": {
+            "title": "Пароль",
+            "old-password-input-label": "Старый пароль",
+            "new-password-input-label": "Новый пароль",
+            "save-password-submit-button": "Сохранить пароль",
+            "message-if-password-successfully-changed": "Пароль успешно изменён"
+        },
+
+        "delete-account": {
+            "delete-account": "Удалить аккаунт",
+            "enter-password": "Введите пароль для подтверждения удаления",
+            "after-deleting": "После удаления вы потеряете доступ к аккаунту, и все ваши персональные данные будут удалены через 30 дней.",
+            "approve": "Подтвердить"
+        },
+
+        "obtain-a-copy-of-data": {
+            "obtain-a-copy-of-data": "Получить копию данных",
+            "request-archive": "Запросить архив",
+            "personal-data": "Личные данные, которые будут включены в загруженный файл:",
+            "user-account": "Информация о настройках учетной записи пользователя, такая как имя, адрес электронной почты, номер телефона, язык и настройки уведомлений",
+            "user-activity": "Данные об активности пользователя, такие как поисковые запросы, голосования, клики и просмотры страниц",
+            "user-generated": "Пользовательский контент, такой как опросы, комментарии и т. д.",
+            "user-purchase": "История покупок пользователя, история различных балансов и данные о транзакциях, если они есть.",
+            "enter-password": "Введите пароль для подтверждения"
+        }
+    },
+
+    "earning-history-page": {
+        "tab-title": "История заработка",
+        "title": "История заработка",
+        "points": "Монеты",
+        "message-id-earning-history-empty": "История заработка пуста.",
+        "previous-button": "Предыдущая",
+        "next-button": "Следующая"
+    },
+    "earn-page": {
+        "tab-title": "Зарабатывать",
+        "social-activity-title": "Начать",
+        "feed-content-list-title": "Повторяющиеся задачи",
+        "message-if-feed-content-list-empty": "Нет задач",
+        "message-if-earn-content-empty": "Нет доступного контента. Спросите у поддержки сайта",
+        "social-activity": {
+            "title": "Социальная активность",
+            "message-if-subscribed": "Подписан",
+            "message-to-subscribe": "Подписаться!",
+            "message-if-social-activity-not-exist": "Нет социальной активности"
+        },
+        "feed-content-list": {
+            "message-to-watch-feed-content": "Читать статью",
+            "share-facebook": "Поделиться в Facebook",
+            "share-linkedIn": "Поделиться в LinkedIn",
+            "share-twitter": "Поделиться в Twitter",
+            "read-more": "Читать больше",
+            "learn-more": "Узнать больше",
+            "vote-poll-for-article": "Голосовать за статью",
+            "vote-on-poll": "Голосовать в опросе",
+            "survey": "Oпрос",
+            "survey-completion": "Oпрос",
+            "quiz": "Bикторинa",
+            "quiz-downgrade": "Викторина",
+            "quiz-completion": "Викторина",
+            "share": "Поделиться",
+            "retry": "Повторить"
+        },
+        "sequence-feed": {
+            "step": "Шаг",
+            "passed": "Завершено",
+            "continue-challenge": "Продолжить",
+            "start-challenge": "Начать",
+            "earned-points": "Заработано очков",
+            "locked": "Заблокировано",
+            "unlocks": "Разблокирует"
+        }
+    },
+    "burger-menu": {
+        "log-out-button": "Выйти",
+        "link-to-earn": "Зарабатывать",
+        "link-to-home": "Домашняя",
+        "link-to-spend": "Тратить",
+        "link-to-redemption": "Погашение",
+        "link-to-activity-history": "История активности",
+        "link-to-account-settings": "Настройки учетной записи",
+        "link-to-product-tour": "Продуктовый тур",
+        "link-to-admin-panel": "Панель администратора",
+        "link-to-portal": "Перейти в портал"
+    },
+
+    "widget-managers-tabs": {
+        "spend": "Потратить",
+        "earn": "Зарабатывать",
+        "integration": "Интеграция",
+        "widget": "Виджет",
+        "settings": "Настройки виджета",
+        "link-to-loyalty-widgets": "Страницы программы лояльности",
+        "info-icon-caption": "ИНФО СОВЕТЫ",
+        "spend-info-title": "Что такое Кошелек ",
+        "spend-info-text": "",
+        "earn-info-title": "Что такое инструмент новостной ленты",
+        "earn-info-text": "",
+        "widget-info-title": "Что такое настройки виджета",
+        "widget-info-text": "",
+        "integration-info-title": "Как установить код для встраивания",
+        "integration-info-text": "",
+        "settings-info-title": "",
+        "settings-info-text": "",
+        "manage": "Управлять",
+        "hide": "Скрывать",
+        "loyalty-widgets": "Виджеты лояльности",
+        "created": "Созданный:",
+        "name": "Имя",
+        "language": "Язык",
+        "statistic": "Статистика"
+    },
+
+    "menu-button": {
+        "close": "Закрыть меню",
+        "open": "Открыть меню",
+        "cancel": "Отмена",
+        "delete": "Удалить"
+    },
+
+    "events": {
+        "create-event-submit-button": "Сохранить",
+        "update-event-submit-button": "Сохранить",
+        "action-type": "Тип действия",
+        "click": "Клик",
+        "event-name": "Название стимула",
+        "reward-amount": "Сумма вознаграждения",
+        "limits-daily-per-user": "Ежедневный лимит на пользователя",
+        "limits-monthly-per-user": "Ежемесячный лимит на пользователя",
+        "cancel-editing-event-button": "Отмена",
+        "delete-event-button": "Удалить",
+        "edit-event-button": "Изменить",
+        "message-if-pages-not-exist": "Список страниц лояльности пуст. Создать новую страницу",
+        "message-if-events-not-exist": "Список стимулов пуст",
+        "message-if-event-successfully-deleted": "Стимул успешно удалён",
+        "message-if-event-successfully-updated": "Стимул успешно изменён",
+        "message-if-event-successfully-created": "Стимул успешно создан",
+        "message-if-event-can-not-delete": "Вы не можете удалить этот стимул, они используются в другом месте, удалить его вручную?",
+        "question-if-want-to-delete-event": "Вы уверены, что хотите удалить?",
+        "validation-message-if-event-already-exists": "Стимул с таким названием уже существует"
+    },
+
+    "feed": {
+        "open-creating-feed-button": "Добавить ленту новостей",
+        "create-feed-form-title": "Введите поля",
+        "message-if-feed-successfully-updated": "Лента новостей успешно изменена",
+        "message-if-feed-successfully-created": "Лента новостей успешно создана",
+        "feed-name": "Название ленты новостей",
+        "period": "Период",
+        "incentives": "Стимулы",
+        "locale": "Язык",
+        "pollCount": "Количество опросов",
+        "url": "URL-ссылка",
+        "create-feed-button": "Сохранить",
+        "close-creating-feed-button": "Закрыть",
+        "message-if-feed-list-is-empty": "Список лент новостей пуст",
+        "cancel-editing-feed-button": "Отмена",
+        "delete-feed-button": "Удалить",
+        "edit-feed-button": "Изменить",
+        "question-if-want-to-delete-feed": "Вы уверены, что хотите удалить?"
+    },
+
+    "loyalty-widgets": {
+        "loyalty-program-template-page-title": "Шаблон программы лояльности",
+        "message-if-widgets-not-exist": "Список страниц пуст",
+        "link-to-statictic-widget": "Статистика",
+        "link-to-edit-widget": "Изменить",
+        "delete-widget-button": "Удалить",
+        "field-name-label": "Название",
+        "field-locale-label": "Язык",
+        "question-if-want-to-delete-widget": "Вы уверены, что хотите удалить?",
+        "create-widget-button": "Создать",
+        "widget-creation-form-title": "Создать новую страницу",
+        "widget-creation-form-submit-button": "Создать",
+        "message-if-widget-successfully-deleted": "Страница успешно удалена",
+        "message-if-widget-successfully-updated": "Страница успешно обновлена",
+        "message-if-widget-successfully-created": "Страница успешно создана",
+        "statistic": {
+            "general-tab-title": "Общая",
+            "detailed-tab-title": "Подробная",
+            "link-to-widgets-list": "Назад",
+            "apply-filters-button": "Применять",
+
+            "total-participants-field-label": "Всего участников",
+            "total-activations-field-label": "Всего активаций",
+            "unique-active-users-period-field-label": "Уникальные активные пользователи/период",
+            "total-events-field-label": "Всего событий",
+            "user-retention-field-label": "Удержание пользователей",
+            "total-account-sessions-field-label": "Всего сеансов аккаунта",
+            "avg-session-reading-time-field-label": "Сред. время чтения сеанса",
+            "avg-reading-time-per-user-field-label": "Сред. время чтения на пользователя",
+            "avg-reading-time-per-article-field-label": "Сред. время чтения на статью",
+            "unique-participants-perio-field-label": "Уникальные участники/период",
+            "events-period-field-label": "События/период",
+            "message-if-retention-value-negative": "Нет данных",
+            "statistics-articles-fieldset-legend": "Статистика по всем статьям",
+            "article-statistics-fieldset-legend": "Статистика статьи",
+            "article-url-input-label": "Найти статью",
+            "article-title-field-label": "Заголовок",
+            "article-total-reads-field-label": "Всего прочитано",
+            "article-total-reading-time-field-label": "Общее время чтения",
+            "article-avg-reading-time-field-label": "Среднее время чтения",
+            "article-url-input-placeholder": "Ссылка на статью"
+        },
+        "editing": {
+            "collection": "Коллекция",
+            "sequence": "Последовательность",
+            "feed": "Лента",
+            "news-content": "Новостной контент",
+            "select-content": "Выбрать контент",
+            "create-new-feed": "Создать новую ленту",
+            "create-new-collection": "Создать новую коллекцию",
+            "content-block-name": "Имя блока контента",
+            "content-visibility": "Видимость контента",
+            "delete-content": "Удалить контент",
+            "add-content": "Добавить еще один контент",
+            "delete-content-question": "Удалить контент из списка?",
+            "cancel": "Отмена",
+            "delete": "Удалить",
+
+            "spend-manager-wallet": "Кошелек",
+
+            "social-media-checkbox-label": "Социальные сети",
+            "social-link-field-label": "Социальная сслыка",
+            "social-incentive-field-label": "Incentive",
+            "link-for-social-field-label": "Введите ссылку",
+            "link-for-social-field-placeholer": "URL-адрес страницы...",
+            "event-select-field-label": "Выберите стимул",
+            "event-select-field-placeholer": "Стимул социальной сети",
+            "feed-checkbox-label": "Лента новостей",
+            "select-feed-label": "Выберите фид",
+            "save-spend-button-submit": "Сохранить настройки расходов",
+            "save-earn-button-submit": "Сохранить",
+            "save-tracker-settings-button-submit": "Сохранить настройки виджета",
+            "save-settings-button-submit": "Сохранить настройки",
+            "delete-loyalty-page-title": "Удалить страницу лояльности",
+            "delete-loyalty-page-warning": "Вы уверены, что хотите удалить страницу лояльности? ",
+            "delete-loyalty-page-button": "Удалить лояльность",
+            "feed-block-name": "Feed block name",
+            "delete-feed": "Delete Feed",
+            "feed-visibility": "Feed visibility",
+            "add-one-more-feed": "Add one more feed",
+            "tool-description": "Tool description perspiciatis unde omnis iste natus",
+
+            "general-settings-fieldset-legend": "Общие настройки",
+            "general-settings-fieldset-subtitle": "Глобальный стиль для страницы лояльности и виджета трекера",
+            "tracker-widget-fieldset-legend": "Виджет трекера",
+            "font-field-label": "Шрифт",
+            "widgets-theme-field-label": "Тема",
+            "light-theme-checkbox-label": "Светлая",
+            "dark-theme-checkbox-label": "Тёмная",
+            "redirect-link-field-label": "Ссылка на удержание",
+            "horizontal-offset-field-label": "Горизонтальное смещение",
+            "vertical-offset-field-label": "Вертикальное смещение",
+            "widget-branding-fields-legend": "Брендинг виджета",
+            "points-name-field-label": "Название монеты",
+            "header-text-field-label": "Текст заголовка",
+            "description-text-field-label": "Описание",
+            "widget-color-field-label": "Цвет виджета",
+            "widget-preview-title": "Превью",
+            "image-logo-field-label": "Изображение логотипа",
+            "page-name-field-label": "Имя страницы",
+            "point-name-field-label": "Название монеты",
+            "locale-field-label": "Язык",
+            "reset-to-default-settings-button": "Сбросить настройки по умолчанию",
+
+            "loyalty-page-embed-code-field-label": "Код для встраивания страницы лояльности",
+            "loyalty-page-embed-code-field-subtitle": "",
+            "tracker-widget-embed-code-field-label": "Код для встраивания виджета трекера",
+            "tracker-widget-embed-code-field-subtitle": "",
+            "copy-embed-code-button": "Копировать",
+            "copied-embed-code-button": "Скопировано",
+
+            "news-feed": "Новостная лента",
+            "create-new": "Создать",
+            "create-page": "Создать страницу",
+            "select": "выбирать",
+
+            "letter-points-icon": "Иконка монеты",
+            "letter-point-letter": "Буквы",
+            "letter-point-icon": "Форма значка",
+            "letter-font-family": "Шрифт букв",
+            "letter-font-size": "Размер шрифта",
+            "letter-offset": "Отступ букв",
+            "referral-url-field-label": "Ссылка на регистрацию",
+
+            "user-menu-settings-is-show-home": "Показать ссылку на главную страницу",
+            "user-menu-settings-is-show-activity-history": "Показать ссылку на историю активности",
+            "user-menu-settings-is-show-product-tour": "Показать ссылку на обзор продукта",
+            "user-menu-settings-is-show-account-settings": "Показать ссылку на настройки учетной записи",
+            "user-menu-settings-is-show-logout": "Показать ссылку для выхода"
+        }
+    },
+
+    "validationMessages": {
+        "required": "Обязательное поле",
+        "incorrect-email": "Некорректный адрес электронной почты",
+        "password-general-requirements": "Пароль должен содержать только латинские буквы, цифры и небуквенные символы",
+        "password-must-contain-non-letter-character": "Пароль должен содержать хотя бы один небуквенный символ",
+        "password-must-contain-letter": "Пароль должен содержать хотя бы одну латинскую букву",
+        "password-min-length": "Пароль должен быть не менее 6 символов",
+        "password-mismatch": "Пароли не совпадают",
+        "crypto-wallet-min-length": "Крипто-кошелек должен содержать не менее 40 символов",
+        "incorrect-crypto-wallet": "Некорректный кошелек",
+        "only-digits": "Поле должно содержать только цифры",
+        "only-integers": "Поле должно содержать только целые числа",
+        "if-monthly-bigger-daily": "Ежедневные лимиты должны быть меньше дневных лимитов или равны",
+        "incorrect-url": "Некорректный URL",
+        "incorrect-hex": "Введите цветовой формат HEX",
+        "field-max-length": "Поле не должно содержать более /{?}/ символов",
+        "max-number": "Значение не должно быть больше, чем /{?}/",
+        "min-number": "Значение не должно быть менее, чем /{?}/",
+        "max-offset": "Максимальное смещение /{?}/px",
+        "positive": "Значение должно быть положительным числом"
+    },
+
+    "userMenu": {
+        "client-dashboard": "Личный кабинет клиента",
+        "profile-settings": "Настройки профиля",
+        "sign-out": "Выход"
+    },
+
+    "sideNavigation": {
+        "loyalty-program": "Программа лояльности",
+        "pages": "Страницы",
+        "statistic": "Статистика",
+        "incentives": "Стимулы",
+        "feeds": "Фиды",
+        "catalogs": "Catalogs",
+        "rewards": "Custom reward",
+        "products": "Products",
+        "preferences": "Настройки",
+        "tools": "Инструменты",
+        "sequences": "Последовательности",
+        "nft-collections": "NFT коллекции",
+        "nft-widgets": "NFT виджеты",
+        "collections": "Коллекции"
+    },
+
+    "modals": {
+        "create-new": "Создать новый",
+        "create-feed": "Создать фид",
+        "create-incentive": "Создать стимул",
+        "apply": "Применять",
+        "edit": "Редактировать",
+        "loyalty-program": "Программа лояльности",
+        "pages": "Страницы",
+        "feed": "фид",
+        "incentive": "стимул",
+        "loyalty page": "страница лояльности",
+        "catalog": "catalog",
+        "rewards": "custom reward",
+        "product": "product",
+        "value-in-points": "Стоимость в баллах",
+        "limit-value": "Предельное значение...",
+
+        "cancel": "Отмена",
+        "delete": "Удалить",
+        "delete-incentive": "Удалить стимул",
+        "delete-custom-reward": "Удалить пользовательское вознаграждение",
+        "delete-feed": "Удалить фид",
+        "by-delete-incentive": "Вы действительно хотите удалить стимул?",
+        "by-delete-item": "Вы действительно хотите удалить элемент?",
+        "by-delete-feed": "Вы действительно хотите удалить ленту?",
+        "finally-delete-feed": "Удалить фид",
+        "before-delete-feed": "Перед удалением фида необходимо отвязать его от всех страниц, где он используется, после этого кнопка удаления станет кликабельной.",
+        "before-change-feed-status": "Перед изменением статуса фида необходимо отвязать его от всех страниц, на которых он используется, после чего кнопка \"Применить\" станет кликабельной.",
+        "feed-deleted": "Фид успешно удален!",
+        "feed-not-any-page": "Фид не связан ни с одной страницей",
+        "feed-deleting": "Выполняется удаление фида ...",
+        "linked-page": "Связанная страница",
+        "select": "Выбрать...",
+        "widget-sequence": "sequence",
+        "sequence": "sequence",
+        "sequence-item": "элемент последовательности",
+        "close": "Закрыть",
+        "next": "Далее",
+        "skip": "Пропустить",
+        "required": "Required",
+        "nft-collection": "NFT collection",
+        "nft-widget": "NFT widget",
+        "nft": "NFT",
+        "collection": "коллекция",
+        "topic-in-collection": "topic"
+    },
+
+    "incentives": {
+        "incentives": "Стимулы",
+        "name": "ИМЯ",
+        "actionType": "ТИП ДЕЙСТВИЯ",
+        "reward": "НАГРАДА",
+        "daily-limit": "ДНЕВНОЙ ЛИМИТ",
+        "monthly-limit": "ЕЖЕМЕСЯЧНЫЙ ЛИМИТ"
+    },
+
+    "feeds": {
+        "feeds": "Фиды",
+        "name": "ИМЯ",
+        "language": "ЯЗЫК",
+        "incentive": "СТИМУЛ",
+        "url": "ССЫЛКА",
+        "polls-creation": "СОЗДАНИЕ ОПРОСОВ"
+    },
+
+    "creationButton": {
+        "page": "Страница",
+        "incentive": "Стимул",
+        "feed": "Фид",
+        "create": "Создать",
+        "collection": "Коллекция"
+    },
+
+    "preferences": {
+        "partner-loyalty-preferences": "Настройки лояльности партнеров",
+        "default-events-rewards": "Награды за события по умолчанию",
+        "all-rewards-are-set": "Все вознаграждения устанавливаются в Баллах, а лимиты на одну Программу лояльности",
+        "save-preferences": "Сохранить настройки",
+
+        "poller-widget": "Виджет опроса",
+        "quiz-widget": "Виджет викторины",
+        "survey-widget": "Виджет опроса",
+        "profile-events": "Профильные события",
+        "earn-page-events": "Зарабатывайте события страницы",
+        "other": "Другоe",
+        "event": "СОБЫТИЕ",
+        "limit-count": "ЛИМИТЫ, КОЛИЧЕСТВО",
+        "reward-points": "БОНУСНЫЕ ОЧКИ",
+        "daily-login": "Щоденний вхід",
+
+        "event-1": "event-1",
+        "event-2": "event-2",
+        "event-3": "event-3",
+        "event-4": "event-4",
+        "event-5": "event-5",
+        "event-6": "event-6",
+        "event-7": "event-7",
+        "event-8": "event-8",
+        "event-9": "event-9",
+        "required-event": "Обязательное событие"
+    },
+
+    "tools": {
+        "partner-loyalty-tools": "Инструменты лояльности партнеров",
+        "quizzes-upload": "Загрузка опросов",
+        "quizzes-upload-description": "Загрузите файл в формате .xls чтобы создать опросы. Максимально допустимый размер файла — 250 КБ",
+        "quizzes-upload-button-text": "Upload",
+        "quizzes-upload-result-name-column": "Name",
+        "quizzes-upload-result-status-column": "Status",
+        "quizzes-upload-result-preview-column": "Preview link",
+        "quizzes-upload-result-configuration-column": "Configuration link",
+        "quizzes-upload-result-link": "Link",
+        "crypto": "Крипто"
+    },
+
+    "nft": {
+        "create-nft": "Создать NFT",
+        "switch-network": "Переключить сеть",
+        "current-wallet-address": "Текущий адрес кошелька:",
+        "grant-access": "Предоставить доступ",
+        "remove-access": "Удалить доступ",
+        "access-granted": "Доступ к коллекции NFT успешно предоставлен",
+        "access-removed": "Доступ к коллекции NFT успешно удален",
+        "access-not-changed": "Доступ к коллекции NFT не изменен",
+        "connect-owner-wallet-address": "Подключить адрес владельца кошелька:",
+        "connect-wallet": "Подключить кошелек",
+        "install-wallet": "Пожалуйста, установите расширение кошелька",
+        "nft-collections": "Коллекции NFT",
+        "name": "Название",
+        "language": "Язык",
+        "blockchain": "Блокчейн",
+        "smart-contract-address": "Адрес смарт-контракта",
+        "manage": "Управление",
+        "embed-code": "Код для вставки",
+        "copy": "Копировать",
+        "edit": "Редактировать",
+        "description": "Описание",
+        "nft-collection": "Коллекция NFT",
+        "cancel": "Отмена",
+        "update": "Обновить",
+        "create": "Создать",
+        "wallet": "Кошелек",
+        "wallet-not-connected": "Кошелек не подключен!",
+        "symbol": "Символ",
+        "metadata-url": "URL метаданных",
+        "image-url": "URL изображения",
+        "pre-minted": "Предварительно выпущено",
+        "token-id": "Идентификатор токена",
+        "status": "Статус",
+        "nft-list-empty": "Список NFT пуст",
+        "nft-collections-list-empty": "Список коллекций NFT пуст",
+        "nft-widgets-list-empty": "Список виджетов NFT пуст"
+    },
+
+    "sequences": {
+        "sequences": "Последовательности",
+        "widget-sequences": "Последовательности виджетов",
+
+        "manage": "Управлять",
+
+        "items": "Предметы",
+        "settings": "Настройки",
+        "create-item": "Создать элемент",
+        "sequence-item": "элемент последовательности",
+
+        "draft": "Черновик",
+        "active": "Активный",
+
+        "edit": "Редактировать",
+        "remove": "Удалять",
+        "cancel": "Отмена",
+        "create": "Создавать",
+
+        "name": "Имя",
+        "article-url": "URL-адрес статьи",
+        "widget": "Виджет",
+        "read-reward-points": "Награда за чтение, баллы",
+        "read-reward": "Читать награду",
+        "status": "status",
+
+        "language": "Язык",
+        "next-step": "Следующий шаг",
+
+        "step-name": "Имя шага",
+        "custom-rewarded-widget": "Select custom rewarded IMU",
+        "imu": "IMU",
+        "select-imu": "Select IMU type",
+        "reading-time": "Reading time (sec)",
+
+        "publishing-name": "Название публикации",
+        "save-settings": "Сохранить настройки",
+        "delete-sequence": "Удалить последовательности",
+
+        "message-if-widget-successfully-deleted": "Sequence successfully deleted!"
+    },
+    "daily-points": {
+        "title": "Ежедневные баллы",
+        "day": "День",
+        "unlock-button-text": "Получить сейчас"
+    },
+    "demo-badge": {
+        "description": "Программа лояльности находится в бета-режиме",
+        "tooltip-content": "Программа лояльности находится в раннем доступе и некоторые функции могут работать некорректно"
+    },
+    "ticket-product": {
+        "sales-end": "Окончание продаж",
+        "giveaway": "Раздача",
+        "finished": "Законченная",
+        "selecting-winners": "Выбор победителей",
+        "day": "д",
+        "complete-sequence": "Завершите последовательность действий, чтобы принять участие",
+        "win-chance": "Шанс выиграть",
+        "per-ticket": "за 1 билет",
+        "sold-tickets": "Проданные билеты",
+        "my-tickets": "Мои билеты"
+    }
+}

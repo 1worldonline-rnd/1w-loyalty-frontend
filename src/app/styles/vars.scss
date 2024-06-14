@@ -1,0 +1,109 @@
+// here we write only our variables
+
+:root {
+    --font-family: 'Manrope';
+}
+
+body[data-theme='light'] {
+    // accent colors
+    --accent-primary-color: 253, 91, 22;
+    --accent-secondary-color: #5c3de6;
+    // state colors
+    --info-color: 255, 200, 47;
+    --success-color: 57, 198, 91;
+    --error-color: 236, 93, 86;
+    --disabled-color: #ececf0;
+    // text colors
+    --text-dark-color: #181d32;
+    --text-default-color: #3a4054;
+    --text-light-color: #777a8c;
+    --text-disabled-color: #a1a1b5;
+    --text-white-color: #fff;
+    // grey scale colors
+    --grey-0-color: #afb1b6;
+    --grey-1-color: #b7b9bf;
+    --grey-2-color: #cdcfd4;
+    --grey-3-color: #dbdde1;
+    --grey-4-color: #e4e5e7;
+    --grey-5-color: #ecedee;
+    --grey-6-color: #f2f2f3;
+    --grey-7-color: #f7f7f8;
+    --grey-8-color: #fafafa;
+    --grey-10-color: #ffffff;
+    // custom
+    --body-background-color: rgb(255, 255, 255);
+    --shadow-color: #2C353E1F;
+    overflow: auto !important;
+}
+
+body[data-theme='dark'] {
+    // accent colors
+    --accent-primary-color: 255, 102, 71;
+    --accent-secondary-color: #6954c4;
+    // state colors
+    --info-color: 211, 163, 29;
+    --success-color: 52, 157, 78;
+    --error-color: 225, 84, 76;
+    --disabled-color: #343942;
+    // text colors
+    --text-dark-color: #d8dadf;
+    --text-default-color: #acb1ba;
+    --text-light-color: #8a929e;
+    --text-disabled-color: #585f6a;
+    --text-white-color: #fff;
+    // grey scale colors
+    --grey-1-color: #20252c;
+    --grey-2-color: 37, 42, 50;
+    --grey-3-color: #2d333a;
+    --grey-4-color: #3b434e;
+    --grey-5-color: #525c6b;
+    --grey-6-color: #6b7685;
+    --grey-8-color: var(--text-dark-color);
+    --grey-9-color: #969696;
+    --grey-10-color: #252a32;
+    // custom
+    --body-background-color: rgb(var(--grey-2-color));
+    --shadow-color: #171a1c4d;
+    overflow: auto !important;
+}
+
+body[data-admin-panel='true'] {
+    --accent-primary-color: 2, 57, 125;
+    --main-color: #02397d;
+    --main-hover-color: #044ca4;
+    // text colors
+    --text-dark-color: #1f242b;
+    --text-default-color: #404854;
+    --text-light-color: #777a8c;
+    --text-disabled-color: #afb4bb;
+    // state colors
+    --success-color: #12b56b;
+    --info-color: #ffc82f;
+    --error-color: 238, 112, 105;
+    --disabled-color: #eeeff1;
+    // accent colors
+    --accent-1-color: #674bed;
+    --accent-2-color: #c938ae;
+    --accent-3-color: #fb6351;
+    --accent-4-color: #fab812;
+    --accent-5-color: 73, 156, 233;
+    --accent-6-color: #2b9348;
+    --accent-7-color: #0466c8;
+    // grey scale colors
+    --grey-0-color: #afb1b6;
+    --grey-1-color: #b7b9bf;
+    --grey-2-color: #cdcfd4;
+    --grey-3-color: #dbdde1;
+    --grey-4-color: #e4e5e7;
+    --grey-5-color: #ecedee;
+    --grey-6-color: #f2f2f3;
+    --grey-7-color: #f7f7f8;
+    --grey-8-color: #fafafa;
+    --grey-9-color: #727b88;
+
+    *,
+    *::before,
+    *::after {
+        font-family: 'Proxima Nova', sans-serif;
+    }
+}

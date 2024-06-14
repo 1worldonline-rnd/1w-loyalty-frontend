@@ -1,0 +1,1 @@
+export { LoyaltyPlatformHeader } from './ui';

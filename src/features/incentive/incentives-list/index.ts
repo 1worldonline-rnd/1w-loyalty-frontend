@@ -1,0 +1,1 @@
+export { IncentivesList } from './ui';

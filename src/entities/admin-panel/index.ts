@@ -1,0 +1,1 @@
+export { adminPanelModel } from './model';

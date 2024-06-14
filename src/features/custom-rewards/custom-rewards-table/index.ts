@@ -1,0 +1,1 @@
+export { CustomRewardsTable } from './ui';

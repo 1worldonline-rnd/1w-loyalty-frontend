@@ -1,0 +1,10 @@
+<script>
+    window.addEventListener('message', window.close);
+
+    window.opener.postMessage({
+        type: 'oAuth',
+        data: {
+            location: window.location.href
+        }
+    }, '*');
+</script>

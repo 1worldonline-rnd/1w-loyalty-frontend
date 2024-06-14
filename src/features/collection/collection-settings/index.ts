@@ -1,0 +1,1 @@
+export { CollectionSettings } from './ui';

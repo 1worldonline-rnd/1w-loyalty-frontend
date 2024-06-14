@@ -1,0 +1,19 @@
+{
+    "collections": "Колекції",
+    "collection-type-sequence": "Послідовність",
+    "collection-type-topic": "Тема",
+
+    "creation-form": {
+        "collection-name-field-label": "Назва",
+        "collection-type-field-label": "Тип",
+        "collection-locale-field-label": "Мова",
+        "button-create-collection-label": "Створити колекцію",
+        "message-if-collection-successfully-created": "Колекція успішно створена!"
+    },
+
+    "collection-table": {
+        "collection-name-th-label": "Назва",
+        "button-to-collection-page-label": "Управління",
+        "no-collections-message": "Список колекцій порожній"
+    }
+}

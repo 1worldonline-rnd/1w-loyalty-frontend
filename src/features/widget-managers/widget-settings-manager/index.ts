@@ -1,0 +1,1 @@
+export { WidgetSettingsManager } from './ui';

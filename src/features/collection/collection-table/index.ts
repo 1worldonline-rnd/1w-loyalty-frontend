@@ -1,0 +1,1 @@
+export { CollectionTable } from './ui';

@@ -1,0 +1,1 @@
+export { FeedContentList } from './ui';
